@@ -18,5 +18,5 @@ end
 
 def find_the_cheese(cheese)
   cheese_types = ["cheddar", "gouda", "camembert"]
-  
+  ingredients = ["garlic", "rosemary", "bread"]
 end
